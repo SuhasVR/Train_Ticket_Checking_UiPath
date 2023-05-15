@@ -61,7 +61,7 @@
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <Sequence DisplayName="ex3" sap:VirtualizedContainerService.HintSize="559.2,1824" sap2010:WorkflowViewState.IdRef="Sequence_2">
+    <Sequence DisplayName="Steps" sap:VirtualizedContainerService.HintSize="559.2,1824" sap2010:WorkflowViewState.IdRef="Sequence_2">
       <Sequence.Variables>
         <Variable x:TypeArguments="x:String" Name="Name" />
         <Variable x:TypeArguments="x:String" Name="PlaceChoice" />
